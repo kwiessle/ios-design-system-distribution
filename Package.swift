@@ -3,9 +3,9 @@
 
 import PackageDescription
 
-let version = "0.0.2"
+let version = "0.0.3"
 let moduleName = "DesignSystem"
-let checksum = "8f42f67a0665798e1c4e149c73a36fb9dddc062bc90e3b4e077ea571613ddda1"
+let checksum = "b0ca2aa4b90d85e705c02a25635a9a82da84a9fb9683fd8e5d1e622f620c0b53"
 
 let package = Package(
     name: moduleName,
